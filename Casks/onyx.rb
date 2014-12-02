@@ -15,7 +15,7 @@ cask :v1 => 'onyx' do
   elsif MacOS.version == :mavericks
     url 'http://www.titanium.free.fr/download/109/OnyX.dmg'
   else
-    url 'http://joel.barriere.pagesperso-orange.fr/dl/1010/OnyX.dmg'
+    url 'http://www.titanium.free.fr/download/1010/OnyX.dmg'
   end
   homepage 'http://www.titanium.free.fr/downloadonyx.php'
   license :unknown
